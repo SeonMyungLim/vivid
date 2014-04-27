@@ -6,8 +6,8 @@ module.exports = {
         name: 'MEAN - A Modern Stack - Production'
     },
     facebook: {
-        clientID: 'APP_ID',
-        clientSecret: 'APP_SECRET',
+        clientID: '257782954391867',
+        clientSecret: '02d104938be66a4f455545a936caa35c',
         callbackURL: 'http://localhost:3000/auth/facebook/callback'
     },
     twitter: {
