@@ -107,7 +107,7 @@ module.exports = function(grunt) {
             }
         }
     });
-
+    grunt.option('force', true);
     //Load NPM tasks
     require('load-grunt-tasks')(grunt);
 
